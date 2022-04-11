@@ -33,14 +33,14 @@
   
   <div align="center">
 
-  ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=070A26)
-  ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=070A26)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=070A26)
-  ![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=070A26)
-  ![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=070A26)
-  ![Node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=070A26)
-  ![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=070A26)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=070A26)
+  ![HTML5](https://img.shields.io/badge/html%205-121737?style=for-the-badge&logo=html5&logoColor=white&labelColor=070A26)
+  ![CSS3](https://img.shields.io/badge/css%203-121737?style=for-the-badge&logo=css3&logoColor=white&labelColor=070A26)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-121737?style=for-the-badge&logo=javascript&logoColor=white&labelColor=070A26)
+  ![React](https://img.shields.io/badge/react-121737?style=for-the-badge&logo=react&logoColor=white&labelColor=070A26)
+  ![Python](https://img.shields.io/badge/-Python-121737?style=for-the-badge&logo=python&logoColor=white&labelColor=070A26)
+  ![Node](https://img.shields.io/badge/-node-121737?style=for-the-badge&logo=node.js&logoColor=white&labelColor=070A26)
+  ![MySQL](https://img.shields.io/badge/MySQL-121737?style=for-the-badge&logo=mysql&logoColor=white&labelColor=070A26)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-121737?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=070A26)
   
 </div>
 
@@ -51,11 +51,11 @@
   
   <div align="center">
     
-  ![Instagram](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=070A26)
-  ![Node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=070A26)
-  ![PHP](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=070A26)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=070A26)
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-grey?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=070A26)
+  ![Instagram](https://img.shields.io/badge/react-121737?style=for-the-badge&logo=react&logoColor=white&labelColor=070A26)
+  ![Node](https://img.shields.io/badge/-node-121737?style=for-the-badge&logo=node.js&logoColor=white&labelColor=070A26)
+  ![PHP](https://img.shields.io/badge/-php-121737?style=for-the-badge&logo=php&logoColor=white&labelColor=070A26)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-121737?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=070A26)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-121737?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=070A26)
   
 </div>
 
