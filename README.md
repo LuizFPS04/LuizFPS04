@@ -15,7 +15,18 @@
 </h2>
 
 <div>
-  <h3 align="center"><strong>Sobre mim</strong></h3>
+  
+  <div align="center">
+    
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-070A26?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)](https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)
+  [![GitHub](https://img.shields.io/badge/GitHub-070A26?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LuizFPS04)](https://github.com/LuizFPS04)
+  [![Instagram](https://img.shields.io/badge/Instagram-070A26?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luizfelipe_0401/)](https://www.instagram.com/luizfelipe_0401/)
+  [![Twitter](https://img.shields.io/badge/Twitter-070A26?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/luizfps__)](https://twitter.com/luizfps__)
+  
+</div>
+
+<div>
+  <h3 align="center"><strong>Sobre mim 🐔🖤</strong></h3>
   Olá, me chamo Luiz Felipe, tenho 18 anos e sou formado como Técnico em Informática pelo IFMG Campus Ribeirão das Neves. 
   Atualmente curso o 1° período de Sistemas de Informação no Centro Universitário Una.
   
@@ -29,7 +40,7 @@
 </br>
 
 <div>
-  <h3 align="center"><strong>Linguagens e tecnologias: </strong></h3>
+  <h3 align="center"><strong>Linguagens e tecnologias 🚀💻 </strong></h3>
   
   <div align="center">
 
@@ -47,7 +58,7 @@
 </br>
 
 <div>
-  <h3 align="center"><strong>Estou aprendendo: </strong></h3>
+  <h3 align="center"><strong>Estou aprendendo 📚💻</strong></h3>
   
   <div align="center">
     
@@ -61,14 +72,4 @@
 
 </br>
 
-<div>
-  <h3 align="center"><strong>Minhas Redes: </strong></h3>
-  
-  <div align="center">
-    
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-070A26?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)](https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)
-  [![GitHub](https://img.shields.io/badge/GitHub-070A26?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LuizFPS04)](https://github.com/LuizFPS04)
-  [![Instagram](https://img.shields.io/badge/Instagram-070A26?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luizfelipe_0401/)](https://www.instagram.com/luizfelipe_0401/)
-  [![Twitter](https://img.shields.io/badge/Twitter-070A26?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/luizfps__)](https://twitter.com/luizfps__)
-  
-</div>
+
