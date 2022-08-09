@@ -17,7 +17,7 @@
 <div>
   <h3 align="center"><strong>Sobre mim 🐔🖤</strong></h3>
   Olá, me chamo Luiz Felipe, tenho 18 anos e sou formado como Técnico em Informática pelo IFMG Campus Ribeirão das Neves. 
-  Atualmente curso o 1° período de Sistemas de Informação no Centro Universitário Una.
+  Atualmente curso o 2° período de Sistemas de Informação no Centro Universitário Una.
   
   <p></p>
   
