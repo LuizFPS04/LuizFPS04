@@ -56,6 +56,7 @@
   ![PHP](https://img.shields.io/badge/-php-121737?style=for-the-badge&logo=php&logoColor=white&labelColor=070A26)
   ![MongoDB](https://img.shields.io/badge/MongoDB-121737?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=070A26)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-121737?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=070A26)
+  ![Azure](https://img.shields.io/badge/Amazon_AWS-121737?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=070A26)
   
 </div>
 
