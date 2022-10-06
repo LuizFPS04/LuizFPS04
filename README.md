@@ -14,61 +14,78 @@
   ">
 </h2>
 
-<div>
-  <h3 align="center"><strong>Sobre mim 🐔🖤</strong></h3>
-  Olá, me chamo Luiz Felipe, tenho 18 anos e sou formado como Técnico em Informática pelo IFMG Campus Ribeirão das Neves. 
-  Atualmente curso o 2° período de Sistemas de Informação no Centro Universitário Una.
-  
-  <p></p>
-  
-  Comecei a me interessar pela área de informática e de programação no ano de 2019, quando inicei o curso Técnico em Informática e fui ter meus primeiros contatos com   programação.
-  Durante o curso, fui aprendendo, principalmente, Python e Javascript, além de outras tecnologias como MySQL, HTML, CSS e Kotlin. Por fora, aprendi um pouco sobre 
-  MongoDB, NodeJS, ReactJS e React Native.
-</div>
-
-</br>
-
-<div>
-  <h3 align="center"><strong>Linguagens e tecnologias 🚀💻 </strong></h3>
-  
-  <div align="center">
-
-  ![HTML5](https://img.shields.io/badge/html%205-121737?style=for-the-badge&logo=html5&logoColor=white&labelColor=070A26)
-  ![CSS3](https://img.shields.io/badge/css%203-121737?style=for-the-badge&logo=css3&logoColor=white&labelColor=070A26)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-121737?style=for-the-badge&logo=javascript&logoColor=white&labelColor=070A26)
-  ![React](https://img.shields.io/badge/react-121737?style=for-the-badge&logo=react&logoColor=white&labelColor=070A26)
-  ![Python](https://img.shields.io/badge/-Python-121737?style=for-the-badge&logo=python&logoColor=white&labelColor=070A26)
-  ![Node](https://img.shields.io/badge/-node-121737?style=for-the-badge&logo=node.js&logoColor=white&labelColor=070A26)
-  ![MySQL](https://img.shields.io/badge/MySQL-121737?style=for-the-badge&logo=mysql&logoColor=white&labelColor=070A26)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-121737?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=070A26)
+<div align="center">
   
 </div>
 
-</br>
+<div align="center">
 
-<div>
-  <h3 align="center"><strong>Estou aprendendo 📚💻</strong></h3>
-  
-  <div align="center">
-    
-  ![Instagram](https://img.shields.io/badge/react-121737?style=for-the-badge&logo=react&logoColor=white&labelColor=070A26)
-  ![Node](https://img.shields.io/badge/-node-121737?style=for-the-badge&logo=node.js&logoColor=white&labelColor=070A26)
-  ![PHP](https://img.shields.io/badge/-php-121737?style=for-the-badge&logo=php&logoColor=white&labelColor=070A26)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-121737?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=070A26)
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-121737?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=070A26)
-  ![Azure](https://img.shields.io/badge/azure-121737?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=070A26)
-  
+#### Opa! Tranquilo? Eu me chamo Luiz Felipe, tenho 18 anos e sou um apaixonado por tecnologia!
+
 </div>
 
-</br>
+<div align="center">
 
-<div>
-  <h3 align="center"><strong>Minhas Redes: </strong></h3>
-  <div align="center">
-    
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-070A26?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)](https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-070A26?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)](https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)
   [![GitHub](https://img.shields.io/badge/GitHub-070A26?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LuizFPS04)](https://github.com/LuizFPS04)
   [![Instagram](https://img.shields.io/badge/Instagram-070A26?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luizfelipe_0401/)](https://www.instagram.com/luizfelipe_0401/)
   [![Twitter](https://img.shields.io/badge/Twitter-070A26?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/luizfps__)](https://twitter.com/luizfps__)
   
+</div>
+  
+---
+
+<div align="center">
+
+### **Alguns trem sobre mim 🐔🖤**
+
+</div>
+
+<img align="right" width="25%" src="https://media.tenor.com/Hmp-qASwisQAAAAC/funny-fail.gif" alt="Batshuayi Malado" />
+
+<div align="left">
+
+* 🤖 Atualmente sou estagiário em desenvolvimento de Chatbots e Back-End
+* 👨🏽‍💻📚 Curso Sistemas de Informação 
+* 💻👨🏽‍🎓 Sou técnico em Informática 
+* 🎖️🌱 Já venci 2 prêmios de Meio Ambiente na ArcelorMittal 
+* 📺😅 Viciado em comédia romântica e sitcons 
+* 🤣⚽ Jogador profissional de Master League
+  
+</div>
+
+<br></br>
+
+<h4>
+
+>*Todos os nossos sonhos podem se tornar realidade se tivermos a coragem de os perseguir* - **Walt Disney**
+
+</h4>
+
+<br></br>
+
+---
+
+<div align="center">
+  <a href="https://github.com/LuizFPS04">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFPS04&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFPS04&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
+
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Luiz-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luiz-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Luiz-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luiz-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luiz-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luiz-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Luiz-Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Luiz-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Luiz-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luiz-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Luiz-Postgree" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" alt="Luiz-Mongo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Luiz-Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />          
+          
 </div>
