@@ -20,7 +20,7 @@
 
 <div align="center">
 
-#### Opa! Tranquilo? Eu me chamo Luiz Felipe, tenho 18 anos e sou um apaixonado por tecnologia!
+#### Opa! Tranquilo? Eu me chamo Luiz Felipe, tenho 19 anos e sou um apaixonado por tecnologia!
 
 </div>
 
