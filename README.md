@@ -45,7 +45,7 @@
 
 <div align="left">
 
-* 🤖 Atualmente sou estagiário em desenvolvimento de Chatbots e Back-End
+* 🤖 Atualmente sou trabalho com desenvolvimento de Chatbots e Back-End
 * 👨🏽‍💻📚 Curso Sistemas de Informação 
 * 💻👨🏽‍🎓 Sou técnico em Informática 
 * 🎖️🌱 Já venci 2 prêmios de Meio Ambiente na ArcelorMittal 
