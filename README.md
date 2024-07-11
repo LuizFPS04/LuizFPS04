@@ -55,7 +55,6 @@
 
 <div align="center">
   <a href="https://github.com/LuizFPS04">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFPS04&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFPS04&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
@@ -74,5 +73,5 @@
   <img align="center" alt="Luiz-Postgree" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   <img align="center" alt="Luiz-Mongo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Luiz-Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />          
-          
+  <img align="center" alt="Luiz-Aws" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />           
 </div>
