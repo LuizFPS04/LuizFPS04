@@ -30,7 +30,7 @@
 
 </div>
 
-<img align="right" width="25%" src="[https://media.tenor.com/Hmp-qASwisQAAAAC/funny-fail.gif](https://tenor.com/pt-BR/view/deyverson-palmeiras-palmeirasxceara-gif-23519354)" alt="Deyvin" />
+<img align="right" width="25%" src="[[https://media.tenor.com/Hmp-qASwisQAAAAC/funny-fail.gif](https://tenor.com/pt-BR/view/deyverson-palmeiras-palmeirasxceara-gif-23519354)](https://tenor.com/pt-BR/view/deyverson-palmeiras-palmeirasxceara-gif-23519354)" alt="Deyvin" />
 
 <div align="left">
 
