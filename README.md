@@ -30,7 +30,7 @@
 
 </div>
 
-<img align="right" width="45%" src="https://media1.tenor.com/m/eGUyWt5L1qIAAAAC/deyverson-palmeiras.gif" alt="Deyvin" />
+<img align="right" width="30%" height="40%" src="https://media1.tenor.com/m/eGUyWt5L1qIAAAAC/deyverson-palmeiras.gif" alt="Deyvin" />
 
 <div align="left">
 
