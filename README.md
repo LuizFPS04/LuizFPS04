@@ -30,7 +30,7 @@
 
 </div>
 
-<img align="right" width="30%" height="60%" src="https://media1.tenor.com/m/UKbjT4LDEDoAAAAC/cristiano-ronaldo.gif" alt="Deyvin" />
+<img align="right" width="25%" src="https://media1.tenor.com/m/UKbjT4LDEDoAAAAC/cristiano-ronaldo.gif" alt="Deyvin" />
 
 <div align="left">
 
