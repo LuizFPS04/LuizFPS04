@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-09131b?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)](https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-09131b?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)](https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)
   [![GitHub](https://img.shields.io/badge/GitHub-09131b?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LuizFPS04)](https://github.com/LuizFPS04)
   [![Instagram](https://img.shields.io/badge/Instagram-09131b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luizfelipe_0401/)](https://www.instagram.com/luizfelipe_0401/)
   
@@ -57,6 +57,7 @@
   <img align="center" alt="Luiz-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luiz-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luiz-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Luiz-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -66,5 +67,6 @@
   <img align="center" alt="Luiz-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Luiz-Postgree" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   <img align="center" alt="Luiz-Mongo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Luiz-Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />                   
+  <img align="center" alt="Luiz-Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />       
+  <img align="center" alt="Luiz-Aws" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />      
 </div>
