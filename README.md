@@ -53,12 +53,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/LuizFPS04">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFPS04&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
-
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
