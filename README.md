@@ -16,9 +16,9 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-09131b?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)](https://www.linkedin.com/in/luiz-felipe-sena-b151971b3/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-09131b?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfps04/)](https://www.linkedin.com/in/luizfps04/)
   [![GitHub](https://img.shields.io/badge/GitHub-09131b?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LuizFPS04)](https://github.com/LuizFPS04)
-  [![Instagram](https://img.shields.io/badge/Instagram-09131b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luizfelipe_0401/)](https://www.instagram.com/luizfelipe_0401/)
+  [![Instagram](https://img.shields.io/badge/Instagram-09131b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luizfelipeps__/)](https://www.instagram.com/luizfelipeps__)
   
 </div>
   
@@ -30,7 +30,8 @@
 
 </div>
 
-<img align="right" width="25%" src="https://media1.tenor.com/m/UKbjT4LDEDoAAAAC/cristiano-ronaldo.gif" alt="Deyvin" />
+<img align="right" width="25%" src="https://media1.tenor.com/m/UKbjT4LDEDoAAAAC/cristiano-ronaldo.gif" alt="CR&" />
+<br></br>
 
 <div align="left">
 
